@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 1
 DTSTART;TZID=Europe/Rome:20260822T173000
 DTEND;TZID=Europe/Rome:20260822T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-1@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 2
 DTSTART;TZID=Europe/Rome:20260828T194500
 DTEND;TZID=Europe/Rome:20260828T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-2@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 3
 DTSTART;TZID=Europe/Rome:20260904T194500
 DTEND;TZID=Europe/Rome:20260904T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-3@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 4
 DTSTART;TZID=Europe/Rome:20260911T194500
 DTEND;TZID=Europe/Rome:20260911T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-4@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 5
 DTSTART;TZID=Europe/Rome:20260918T194500
 DTEND;TZID=Europe/Rome:20260918T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-5@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 6
 DTSTART;TZID=Europe/Rome:20261010T140000
 DTEND;TZID=Europe/Rome:20261010T140500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-6@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 7
 DTSTART;TZID=Europe/Rome:20261016T194500
 DTEND;TZID=Europe/Rome:20261016T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-7@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 8
 DTSTART;TZID=Europe/Rome:20261023T194500
 DTEND;TZID=Europe/Rome:20261023T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-8@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -186,9 +186,10 @@ DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
  postato a 60 minuti prima.\n\nPartite rilevate:\n- 23/10/2026 20:45 Torino
   3 - 2 Monza\n- 24/10/2026 15:00 Cagliari 0 - 2 Bologna\n- 24/10/2026 15:0
  0 como 2 - 0 Sassuolo\n- 24/10/2026 18:00 Napoli 3 - 3 AS Roma\n- 24/10/20
- 26 20:45 Lazio 2 - 1 Parma\n- 25/10/2026 12:30 Inter - Fiorentina\n- 25/10
- /2026 15:00 Genoa - Venezia\n- 25/10/2026 15:00 Atalanta - Frosinone\n- 25
- /10/2026 18:00 Lecce - Juventus\n- 25/10/2026 20:45 Udinese - AC Milan
+ 26 20:45 Lazio 2 - 1 Parma\n- 25/10/2026 12:30 Inter 2 - 1 Fiorentina\n- 2
+ 5/10/2026 15:00 Genoa 1 - 0 Venezia\n- 25/10/2026 15:00 Atalanta 4 - 4 Fro
+ sinone\n- 25/10/2026 18:00 Lecce 0 - 2 Juventus\n- 25/10/2026 20:45 Udines
+ e 0 - 2 AC Milan
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -201,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 9
 DTSTART;TZID=Europe/Rome:20261027T173000
 DTEND;TZID=Europe/Rome:20261027T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-9@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -224,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 10
 DTSTART;TZID=Europe/Rome:20261031T140000
 DTEND;TZID=Europe/Rome:20261031T140500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-10@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -247,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 11
 DTSTART;TZID=Europe/Rome:20261106T194500
 DTEND;TZID=Europe/Rome:20261106T195000
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-11@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -270,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 12
 DTSTART;TZID=Europe/Rome:20261121T140000
 DTEND;TZID=Europe/Rome:20261121T140500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-12@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -293,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 13
 DTSTART;TZID=Europe/Rome:20261129T173000
 DTEND;TZID=Europe/Rome:20261129T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-13@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -316,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 14
 DTSTART;TZID=Europe/Rome:20261206T173000
 DTEND;TZID=Europe/Rome:20261206T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-14@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -339,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 15
 DTSTART;TZID=Europe/Rome:20261213T173000
 DTEND;TZID=Europe/Rome:20261213T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-15@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -362,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 16
 DTSTART;TZID=Europe/Rome:20261220T173000
 DTEND;TZID=Europe/Rome:20261220T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-16@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -385,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 17
 DTSTART;TZID=Europe/Rome:20270103T173000
 DTEND;TZID=Europe/Rome:20270103T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-17@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -408,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 18
 DTSTART;TZID=Europe/Rome:20270106T173000
 DTEND;TZID=Europe/Rome:20270106T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-18@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -431,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 19
 DTSTART;TZID=Europe/Rome:20270110T173000
 DTEND;TZID=Europe/Rome:20270110T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-19@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -454,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 20
 DTSTART;TZID=Europe/Rome:20270117T173000
 DTEND;TZID=Europe/Rome:20270117T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-20@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -477,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 21
 DTSTART;TZID=Europe/Rome:20270124T173000
 DTEND;TZID=Europe/Rome:20270124T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-21@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -500,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 22
 DTSTART;TZID=Europe/Rome:20270131T173000
 DTEND;TZID=Europe/Rome:20270131T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-22@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -523,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 23
 DTSTART;TZID=Europe/Rome:20270207T173000
 DTEND;TZID=Europe/Rome:20270207T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-23@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -546,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 24
 DTSTART;TZID=Europe/Rome:20270214T173000
 DTEND;TZID=Europe/Rome:20270214T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-24@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -569,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 25
 DTSTART;TZID=Europe/Rome:20270221T173000
 DTEND;TZID=Europe/Rome:20270221T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-25@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -592,7 +593,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 26
 DTSTART;TZID=Europe/Rome:20270228T173000
 DTEND;TZID=Europe/Rome:20270228T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-26@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -615,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 27
 DTSTART;TZID=Europe/Rome:20270307T173000
 DTEND;TZID=Europe/Rome:20270307T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-27@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -638,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 28
 DTSTART;TZID=Europe/Rome:20270314T173000
 DTEND;TZID=Europe/Rome:20270314T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-28@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -661,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 29
 DTSTART;TZID=Europe/Rome:20270321T173000
 DTEND;TZID=Europe/Rome:20270321T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-29@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -684,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 30
 DTSTART;TZID=Europe/Rome:20270404T173000
 DTEND;TZID=Europe/Rome:20270404T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-30@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -707,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 31
 DTSTART;TZID=Europe/Rome:20270411T173000
 DTEND;TZID=Europe/Rome:20270411T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-31@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -730,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 32
 DTSTART;TZID=Europe/Rome:20270418T173000
 DTEND;TZID=Europe/Rome:20270418T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-32@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -753,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 33
 DTSTART;TZID=Europe/Rome:20270425T173000
 DTEND;TZID=Europe/Rome:20270425T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-33@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -776,7 +777,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 34
 DTSTART;TZID=Europe/Rome:20270502T173000
 DTEND;TZID=Europe/Rome:20270502T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-34@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -799,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 35
 DTSTART;TZID=Europe/Rome:20270509T173000
 DTEND;TZID=Europe/Rome:20270509T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-35@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -822,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 36
 DTSTART;TZID=Europe/Rome:20270516T173000
 DTEND;TZID=Europe/Rome:20270516T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-36@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -845,7 +846,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 37
 DTSTART;TZID=Europe/Rome:20270523T173000
 DTEND;TZID=Europe/Rome:20270523T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-37@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
@@ -868,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ Inserire formazione Fantacalcio — Giornata 38
 DTSTART;TZID=Europe/Rome:20270530T173000
 DTEND;TZID=Europe/Rome:20270530T173500
-DTSTAMP:20261025T085926Z
+DTSTAMP:20261026T095014Z
 UID:fantacalcio-formazione-2026-27-giornata-38@calendar.local
 CATEGORIES:Fantacalcio
 DESCRIPTION:Scadenza consigliata per inserire la formazione della giornata
